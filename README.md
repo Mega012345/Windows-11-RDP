@@ -12,7 +12,7 @@ Free Windows 11 RDP (1 HOUR)
 
 ### And paste the following commands:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/ImJanindu/Windows11-RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/PraneeshRV/Windows-11-RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
