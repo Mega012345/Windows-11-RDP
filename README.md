@@ -25,6 +25,8 @@ Free Windows 11 RDP (1 HOUR)
 - Paste your ngrok token in the terminal.
 - Then after the build it will give you the credentials of rdp.
 - You can now login using **User** and **Password**.
+- Don't close Katacoda tab. RDP will expire in 1 hour.
+- You can create many RDPs using this method. Just create a new ngrok token.
 
 ## CREDITS:
 
