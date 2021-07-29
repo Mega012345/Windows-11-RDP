@@ -29,7 +29,6 @@ Free Windows 11 RDP (1 HOUR)
 ## CREDITS:
 
 - NGROK
-- Youtube channel: 
 
 ## DISCLAIMER:
 
