@@ -28,8 +28,7 @@ Free Windows 11 RDP (1 HOUR)
 
 ## CREDITS:
 
-- NGROK
-- Katacoda
+- [Original Repo](https://github.com/kmille36/Linux-to-Windows-with-QEMU)
 
 ## DISCLAIMER:
 
