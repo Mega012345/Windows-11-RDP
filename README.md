@@ -28,12 +28,6 @@ Free Windows 11 RDP (1 HOUR)
 - Don't close Katacoda tab. RDP will expire in 1 hour.
 - You can create many RDPs using this method. Just create a new ngrok token.
 
-## CREDITS:
-
-- [Original Repo](https://github.com/kmille36/Linux-to-Windows-with-QEMU)
-
-## DISCLAIMER:
-
  - Do not overuse this method.
  - No illegal things
  - No Hosting, Mining, Cracking.
