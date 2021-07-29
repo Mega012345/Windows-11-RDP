@@ -23,8 +23,8 @@ clear
 echo "Windows 11 RDP by TechZilla LK"
 echo Your RDP IP Address:
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
-echo User: techzillalk
-echo Password: techzilla123
+echo User: Administrator
+echo Password: Thuonghai001
 echo Script by t.me/infje
 echo Wait 2-4m VM boot up before connect. 
 echo Do not close Katacoda tab. VM expired in 1 hour.
